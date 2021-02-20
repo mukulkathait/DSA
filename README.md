@@ -1,3 +1,2 @@
-# DSA-with-C
-Data Sturtures and Algorithms using C programming.
-It contains basic to advance programs in C.
+# DSA
+This contain various Data Structures & Algorithms problems solved using different programming languages (basically C and Python).
